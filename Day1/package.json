@@ -1,0 +1,29 @@
+{
+  "name": "day1",
+  "version": "1.0.0",
+  "description": "start backend series today express",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kamal126/Backend-series.git"
+  },
+  "keywords": [
+    "backend",
+    "express",
+    "js",
+    "route"
+  ],
+  "author": "Kamal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kamal126/Backend-series/issues"
+  },
+  "homepage": "https://github.com/kamal126/Backend-series#readme",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0"
+  }
+}
